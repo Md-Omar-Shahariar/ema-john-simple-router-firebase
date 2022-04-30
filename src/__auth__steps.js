@@ -18,6 +18,7 @@
 1. hosting steps
 2. firebase login
 3. firebase init
-4. firebase deploy
+4. run build
+5. firebase deploy
 
 */
